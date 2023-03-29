@@ -130,7 +130,7 @@ inner join categoria as cat on lc.categoria_id = cat.id
 where cat.nombre = 'Ciencia Ficcion';
 
 --
-create view bookContenet as
+create or replace view bookContenet as
 select lib.titulo as titleBook,
        lib.editorial as editorialBook,
        lib.paginas as pagesBook,
@@ -146,7 +146,7 @@ from libro as lib;
 
 # de acuerdo a la vista creada
 # CONTAR cuantos libros son de contenido medio
-select count(typeContentBook)
+select count(typecontentBook)
 from bookContenet
 where typeContentBook = 'contenido mediano';
 
