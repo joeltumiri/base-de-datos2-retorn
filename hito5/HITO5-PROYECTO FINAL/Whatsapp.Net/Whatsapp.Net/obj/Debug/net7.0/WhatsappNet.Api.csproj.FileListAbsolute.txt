@@ -1,0 +1,67 @@
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\appsettings.json
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\WhatsappNet.Api.exe
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\WhatsappNet.Api.deps.json
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\WhatsappNet.Api.runtimeconfig.json
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\WhatsappNet.Api.dll
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\WhatsappNet.Api.pdb
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.csproj.AssemblyReference.cache
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.AssemblyInfo.cs
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets\msbuild.WhatsappNet.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets\msbuild.build.WhatsappNet.Api.props
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WhatsappNet.Api.props
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WhatsappNet.Api.props
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\scopedcss\bundle\WhatsappNet.Api.styles.css
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.dll
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\refint\WhatsappNet.Api.dll
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.pdb
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.genruntimeconfig.cache
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\ref\WhatsappNet.Api.dll
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.csproj.CopyComplete
+C:\Users\Joel\Desktop\v2\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.csproj.AssemblyReference.cache
+C:\Users\Joel\Desktop\v2\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel\Desktop\v2\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.AssemblyInfoInputs.cache
+C:\Users\Joel\Desktop\v2\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.AssemblyInfo.cs
+C:\Users\Joel\Desktop\v2\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\v2\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joel\Desktop\v2\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.dll
+C:\Users\Joel\Desktop\v2\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\refint\WhatsappNet.Api.dll
+C:\Users\Joel\Desktop\v2\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.pdb
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\appsettings.json
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\WhatsappNet.Api.exe
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\WhatsappNet.Api.deps.json
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\WhatsappNet.Api.runtimeconfig.json
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\WhatsappNet.Api.dll
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\WhatsappNet.Api.pdb
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\bin\Debug\net7.0\OpenAI_API.dll
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.csproj.AssemblyReference.cache
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.AssemblyInfoInputs.cache
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.AssemblyInfo.cs
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets\msbuild.WhatsappNet.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets\msbuild.build.WhatsappNet.Api.props
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WhatsappNet.Api.props
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WhatsappNet.Api.props
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\scopedcss\bundle\WhatsappNet.Api.styles.css
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.csproj.CopyComplete
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.dll
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\refint\WhatsappNet.Api.dll
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.pdb
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\WhatsappNet.Api.genruntimeconfig.cache
+C:\Users\Joel\Desktop\Nueva carpeta (7)\Whatsapp.Net\Whatsapp.Net\obj\Debug\net7.0\ref\WhatsappNet.Api.dll

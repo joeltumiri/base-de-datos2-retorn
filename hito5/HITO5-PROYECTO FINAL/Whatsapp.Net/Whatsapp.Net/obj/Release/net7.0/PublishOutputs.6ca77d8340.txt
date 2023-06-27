@@ -1,0 +1,8 @@
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Release\net7.0\PubTmp\Out\WhatsappNet.Api.exe
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Release\net7.0\PubTmp\Out\WhatsappNet.Api.dll
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Release\net7.0\PubTmp\Out\WhatsappNet.Api.deps.json
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Release\net7.0\PubTmp\Out\WhatsappNet.Api.runtimeconfig.json
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Release\net7.0\PubTmp\Out\WhatsappNet.Api.pdb
+C:\Users\Joel\source\repos\Whatsapp.Net\Whatsapp.Net\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll

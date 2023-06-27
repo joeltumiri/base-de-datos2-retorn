@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJycbvZRotkuNXxi8kXkS/QAAAAACAAAAAAAQZgAAAAEAACAAAADRAyfoL5tDVQ0Kz/4ZB5sMzgDoWNeHE0zlhiR5Se3WMwAAAAAOgAAAAAIAACAAAABQ5wj8rvbp8faD+3JKPNyDOpDUDp5O2cuqqnY3na+vcoAAAACR601MlDMT1TUKsUcJ7bS+8mgq4LYu9YBHOpts1GCcwgF1QS/218dwVjF0V8taeUGy+JxH7mQ+OzlcoDBWzWMAYTQMiryF662IpB9eKBRgC21dmuDuvTYEAynGQPhmybgbuimraMyYInLNjcixbgCWfnUjhDVSQVUm7QiFVLo/Q0AAAAA4h9NKvvQcmlgz0urnEbxN8wOa7GzNYiIh8IH+0Tonz89zv6Pmmh39aqG4gVedp29OBb8/gL6BNF7QcbN1UvAW</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-blu-425.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>True|2023-06-21T01:52:11.8441423Z;True|2023-06-20T21:49:20.9563054-04:00;True|2023-06-20T21:46:20.8629393-04:00;True|2023-06-20T21:41:10.5350853-04:00;True|2023-06-20T21:31:43.7623776-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>06/07/2023 11:26:30</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/07/2023 11:26:30</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/08/2023 03:09:54</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/20/2023 21:51:33</publishTime>
+    </File>
+    <File Include="WhatsappNet.Api.deps.json">
+      <publishTime>06/20/2023 21:51:22</publishTime>
+    </File>
+    <File Include="WhatsappNet.Api.dll">
+      <publishTime>06/20/2023 21:51:22</publishTime>
+    </File>
+    <File Include="WhatsappNet.Api.exe">
+      <publishTime>06/20/2023 21:51:22</publishTime>
+    </File>
+    <File Include="WhatsappNet.Api.pdb">
+      <publishTime>06/20/2023 21:51:22</publishTime>
+    </File>
+    <File Include="WhatsappNet.Api.runtimeconfig.json">
+      <publishTime>06/20/2023 21:30:57</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
