@@ -15,18 +15,18 @@ Este repositorio alberga una serie de hitos críticos para el curso "Base de Dat
 ### 🎯 hito3
 | Nombre | Enlace |
 |--------|--------|
-| hito3  | [hito3]([https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito2](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito3)) |
-| EXAMEN | [EXAMEN]([https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito2/EXAMEN](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito3/evaluacion)) |
-| LABORATORIOS | [LABORATORIOS]([https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito2/LABORATORIOS](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito3/laboratorios)) |
-| TAREA PROCESUAL | [TAREA PROCESUAL]([https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito2/TAREA%20PROCESUAL](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito3/tarea%20procesual)) |
+| hito3  | [hito3](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito3) |
+| EXAMEN | [EXAMEN](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito3/evaluacion) |
+| LABORATORIOS | [LABORATORIOS](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito3/laboratorios) |
+| TAREA PROCESUAL | [TAREA PROCESUAL](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito3/tarea%20procesual) |
 
 ### 🎯 hito4
 | Nombre | Enlace |
 |--------|--------|
-| hito4  | [hito4]([https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito2](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito4)) |
-| EXAMEN | [EXAMEN]([https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito2/EXAMEN](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito4/Examen)) |
-| LABORATORIOS | [LABORATORIOS]([https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito2/LABORATORIOS](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito4/laboratorios)) |
-| TAREA PROCESUAL | [TAREA PROCESUAL]([https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito2/TAREA%20PROCESUAL](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito4/tarea%20procesual)) |
+| hito4  | [hito4](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito4) |
+| EXAMEN | [EXAMEN](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito4/Examen) |
+| LABORATORIOS | [LABORATORIOS](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito4/laboratorios) |
+| TAREA PROCESUAL | [TAREA PROCESUAL](https://github.com/joeltumiri/base-de-datos2-retorn/tree/main/hito4/tarea%20procesual) |
 
 
 ## 🕹 Último commit 🕹
